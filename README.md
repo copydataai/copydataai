@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @copydataai
-- 👀 I’m interested in improving my technical skills.
-- 🌱 I’m currently doing a full recap of computer science and trying to customize my linux desk that includes: Emacs, AwesomeWM, NeoVim, Bash Scripting and etc.
-- 💞️ I’m looking to collaborate on projects with any language I'll learn in the process(or maybe early).
-- 📫 How to reach me by [LinkedIn](https://www.linkedin.com/in/copydataai/) or email like [me@copydataai.com](mailto:me@copydataai.com)
+# [Jose Sanchez](https://copydataai.com)
 
-<!---
-copydataai/copydataai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+<p align="left"><i>Software Engineer. Based in 🇮🇪 </i></p>
+<p align="left"><i>Always keeping learning.</i></p>
+<p align="left"><i>Making <a href="https://orders.copydataai.com">Orders 🗒️</a></i></p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/copydataai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/copydataaireal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+<br>
+
+###
+
+<br clear="both">
+
+###
+<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=copydataai&" alt="copydataai" /></p>

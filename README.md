@@ -2,9 +2,12 @@
 
 <br />
 
+
 <p align="left"><i>Software Engineer. Based in 🇮🇪 </i></p>
 <p align="left"><i>Always keeping learning.</i></p>
 <p align="left"><i>Making <a href="https://orders.copydataai.com">Orders 🗒️</a></i></p>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/copydataai/" target="_blank">
@@ -16,9 +19,8 @@
 </div>
 <br>
 
-###
+<div align="center">
+<p  width="50%" height="50"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=copydataai&layout=compact" alt="copydataai-languages" /></p>
+<p  width="50%" height="50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=copydataai&" alt="copydataai" /></p>
 
-<br clear="both">
-
-###
-<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=copydataai&" alt="copydataai" /></p>
+</div>

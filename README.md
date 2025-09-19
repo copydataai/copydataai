@@ -3,12 +3,13 @@
 <br />
 
 
-<p align="left"><i>Software Engineer. Based in 🇮🇪 </i></p>
-<p align="left"><i>Always keeping learning.</i></p>
-<p align="left"><i>Making <a href="https://orders.copydataai.com">Orders 🗒️</a></i></p>
+<p align="left"><i>I build software</i>, solving problems for the SMBs industries for a 10x ROI</p>
+<p align="left"><i>In constant reinvention.</i></p>
+<p align="left"><i>comming soon</i></p>
 
 
 
+<p align="left"><i>I'll post after the incognito mode</i></p>
 <div align="center">
   <a href="https://www.linkedin.com/in/copydataai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -18,9 +19,5 @@
   </a>
 </div>
 <br>
-
-<div align="center">
-<p  width="50%" height="50"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=copydataai&layout=compact" alt="copydataai-languages" /></p>
-<p  width="50%" height="50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=copydataai&" alt="copydataai" /></p>
 
 </div>
